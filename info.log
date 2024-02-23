@@ -1,0 +1,188 @@
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"error","message":"/api/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"error","message":"/api/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api/books/40"}
+{"level":"info","message":"/api/books/:id"}
+{"level":"info","message":"/api/authors"}
+{"level":"info","message":"/api/authors"}
+{"level":"info","message":"/api/genres"}
+{"level":"info","message":"/api/genres"}
+{"level":"info","message":"/api/author/J.%20K.%20Rowling/books"}
+{"level":"info","message":"/api/authors/:name/books"}
+{"level":"info","message":"/api/author/Rowling/books"}
+{"level":"info","message":"/api/authors/:name/books"}
+{"level":"info","message":"/api/genre/%7Bgenre%7D/books"}
+{"level":"info","message":"/api/genres/:genre/books"}
+{"level":"info","message":"/api/genre/%7Bgenre%7D/books"}
+{"level":"info","message":"/api/genres/:genre/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/genre/adult/books"}
+{"level":"info","message":"/api/genres/:genre/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api-docs"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api-docs/"}
+{"level":"info","message":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 10:48:18"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 10:48:18"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 10:48:18"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 10:48:19"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 10:48:19"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 10:48:20"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:48:31"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:48:31"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:51:31"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:51:31"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 10:51:40"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 10:51:40"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 10:51:40"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 10:51:40"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 10:51:40"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 10:51:41"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 10:51:41"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:51:46"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:51:46"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:53:08"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:53:08"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:53:34"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 10:53:34"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:00:03"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:00:03"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:00:17"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:00:17"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:02:37"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:02:37"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:17:18"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:17:18"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:20:32"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:20:32"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:21:22"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:21:22"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:24:55"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:24:55"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 11:25:25"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 11:25:25"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 11:25:25"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 11:25:25"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 11:25:25"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 11:25:26"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 11:25:27"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:25:31"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:25:31"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 11:28:57"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 11:28:57"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 11:28:57"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 11:28:57"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 11:28:57"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 11:28:58"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 11:28:58"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:29:02"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:29:02"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 11:29:56"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 11:29:56"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 11:29:56"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 11:29:56"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 11:29:56"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 11:29:57"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 11:29:57"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:30:01"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:30:01"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:30:04"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:30:04"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 11:59:10"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 12:05:49"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 12:05:49"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 12:05:49"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 12:05:49"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 12:05:49"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 12:05:50"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 12:06:18"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 12:08:56"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 12:11:30"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 12:12:44"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 13:07:41"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 13:07:41"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 13:07:41"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 13:07:41"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 13:07:41"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 13:07:42"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 13:07:43"}
+{"level":"info","message":"/api-docs/","timestamp":"2024-02-23 13:07:53"}
+{"level":"info","message":"/api-docs/swagger-ui.css","timestamp":"2024-02-23 13:07:53"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js","timestamp":"2024-02-23 13:07:53"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-02-23 13:07:53"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js","timestamp":"2024-02-23 13:07:53"}
+{"level":"info","message":"/api-docs/favicon-32x32.png","timestamp":"2024-02-23 13:07:54"}
+{"level":"info","message":"/api/books","timestamp":"2024-02-23 13:09:32"}

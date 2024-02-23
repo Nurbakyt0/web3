@@ -1,0 +1,255 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "My book Project CRUD",
+    "description": "My book Project Application API",
+    "license": {
+      "name": "AITU",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "host": "localhost:3001",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "Books",
+      "description": "API for Books in the system"
+    }
+  ],
+  "schemes": ["http"],
+  "consumes": ["application/json"],
+  "produces": ["application/json"],
+  "paths": {
+    "/api/books": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get all Books in system",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "book"
+        ],
+        "description": "Create new book in system",
+        "parameters": [
+          {
+            "name": "book",
+            "in": "body",
+            "description": "book that we want to create",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        ],
+        "produces": [
+          "application/json/ejs"
+        ],
+        "responses": {
+          "200": {
+            "description": "New book is created",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          },
+          "409": {
+            "description": "Database error"
+          }
+        }
+      }
+      
+    },
+    "/api/books/byName/{name}": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get books by name",
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "description": "book to find",
+            "type": "string",
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    },
+    "/api/books/byPrice/{price}": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get books by price",
+        "parameters": [
+          {
+            "name": "price",
+            "in": "path",
+            "description": "books to find by price",
+            "type": "integer",
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    },
+    "/api/books/{id}": {
+      "put": {
+        "tags": ["book"],
+        "summary": "Update book by id",
+        "parameters": [
+          {
+            "name": "book",
+            "in": "body",
+            "description": "book that we want to update",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "description": "book that we want to update",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    },
+    "/api/authors": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get authors of books",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    },
+    "/api/genres": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get genres of books",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    },
+    "/api/author/{name}/books": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get books by authors",
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "description": "book to find by authors name",
+            "type": "string",
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    },
+    "/api/genre/{genre}/books": {
+      "get": {
+        "tags": ["book"],
+        "summary": "Get books by genres",
+        "parameters": [
+          {
+            "name": "genre",
+            "in": "path",
+            "description": "book to find by genres",
+            "type": "string",
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/book"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "book": {
+      "required": ["name"],
+      "properties": {
+        "id": {
+          "type": "integer",
+          "uniqueItems": true
+        },
+        "Name": {
+          "type": "string"
+        },
+        "Author": {
+          "type": "string"
+        },
+        "Genres": {
+          "type": "string"
+        },
+        "PagesCount": {
+          "type": "integer"
+        },
+        "Price": {
+          "type": "integer"
+        },
+        "PublishYear": {
+          "type": "integer"
+        }
+      }
+    },
+    "Books": {
+      "type": "array",
+      "$ref": "#/definitions/book"
+    }
+  }
+}
